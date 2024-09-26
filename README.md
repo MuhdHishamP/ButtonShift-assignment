@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ](https://button-shift-assignment.vercel.app/)
 ## Quick Start
 
-1. Clone the repo: `git clone https://github.com/your-username/your-repo-name.git`
+1. Clone the repo: `git clone https://github.com/MuhdHishamP/ButtonShift-assignment.git`
 2. Install dependencies: `npm install`
 3. Start the dev server: `npm start`
 
