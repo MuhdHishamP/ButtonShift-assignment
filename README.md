@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-[[Your Deployed App URL]
+[Click here to see the work board live
 ](https://button-shift-assignment.vercel.app/)
 ## Quick Start
 
